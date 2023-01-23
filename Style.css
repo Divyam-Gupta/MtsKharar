@@ -1,0 +1,58 @@
+
+#MainHead {
+    color: rgb(27, 111, 68);
+    font-family: Raleway;
+}
+
+.header {
+    background-color: rgb(26, 25, 25);
+    padding: 10px;
+    color: white;
+    border-right: 2px solid white;
+    border-radius: 4px;
+
+}
+
+.HeadImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#ParaTwo {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 2px;
+}
+
+#Location {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+    
+
+th {
+    background-color: #04AA6D;
+    color: white;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2;}
+  
+
